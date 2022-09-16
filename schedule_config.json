@@ -15,6 +15,12 @@
                 "name" : "gold_to_on_premise_rsa"
             }
         ]
+    },
+    {
+        "project":"Benchmark Real State",
+        "label": "brs",
+        "notebooks":[],
+        "pipes":[]
     }
     
 ]
