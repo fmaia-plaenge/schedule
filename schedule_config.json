@@ -19,8 +19,12 @@
     {
         "project":"Benchmark Real State",
         "label": "brs",
-        "notebooks":[],
-        "pipes":[]
+        "notebooks":[
+                "name" : "flat_table_benchmark_real_state_brs"
+        ],
+        "pipes":[
+                "name" : "gold_to_on_premise_brs"
+        ]
     }
     
 ]
