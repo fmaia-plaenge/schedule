@@ -29,5 +29,22 @@
                 "name" : "gold_to_on_premise_brs"
             }
         ]
+    },
+    {
+        "project":"Comissions",
+        "label": "com",
+        "notebooks":[
+            {
+                "name" : "comissions_dimesions"
+            },
+            {
+                "name" : "comissions_fact"
+            }
+        ],
+        "pipes":[
+            {
+                "name" : "gold_to_on_premise_comissions"
+            }
+        ]
     }
 ]
