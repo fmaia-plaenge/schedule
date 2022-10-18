@@ -46,5 +46,22 @@
                 "name" : "gold_to_on_premise_comissions"
             }
         ]
+    },
+    {
+        "project":"Controle Jurídico",
+        "label": "ju",
+        "notebooks":[
+            {
+                "name" : "dim_juridico"
+            },
+            {
+                "name" : "fact_juridico"
+            }
+        ],
+        "pipes":[
+            {
+                "name" : "gold_to_on_premise_ju"
+            }
+        ]
     }
 ]
